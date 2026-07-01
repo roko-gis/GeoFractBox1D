@@ -1,0 +1,60 @@
+# GeoFractBox1D Installation Guide
+
+This document describes how to install and run **GeoFractBox1D** as a script inside QGIS using the **Python Console**.
+---
+
+# System Requirements
+
+GeoFractBox1D has been developed and tested with:
+
+- QGIS 3.34 LTR or newer (recommended)
+- Python 3.x (distributed with QGIS)
+- Windows, Linux, or macOS
+
+The software runs entirely inside the QGIS Python environment and does not require a separate Python installation.
+
+---
+
+# Required Python Libraries
+
+Most required libraries are included with a standard QGIS installation.
+
+GeoFractBox1D uses the following Python packages:
+
+- numpy
+- pandas
+- matplotlib
+- scipy
+- Pillow
+- openpyxl
+
+If any of these packages are missing, they must be installed in the Python environment bundled with QGIS.
+
+---
+
+# Installation
+
+## Step 1 – Download the Script
+
+1. Download the latest version of **GeoFractBox1D.py** from the GitHub repository.
+2. Save the file to a local folder on your computer.
+
+---
+
+## Step 2 – Open QGIS Python Console
+
+1. Start QGIS.
+2. Open the Python Console:
+
+   **Plugins → Python Console**
+
+3. (Optional) Open the Script Editor for easier execution.
+
+---
+
+## Step 3 – Run the Script
+
+Run GeoFractBox1D directly from the Python Console using:
+
+```python
+exec(open(r"C:\path\to\GeoFractBox1D.py").read()) 
