@@ -5,10 +5,8 @@ GeoFractBox1D is an open-source QGIS Processing tool for estimating one-dimensio
 
 ### Citation
 
-If you use this software, please cite:
+Ranguelov, B., & Iliev, R. (2026). *GeoFractBox1D (V1.0.0)*. Zenodo. https://doi.org/10.5281/zenodo.21099450
 
-Ranguelov, B., & Iliev, R. (2026). *GeoFractBox1D (Version 1.0.0)*. Zenodo. https://doi.org/10.5281/zenodo.21099450
-
-### Zenodo DOI
+### DOI (Zenodo)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21099450.svg)](https://doi.org/10.5281/zenodo.21099450)
