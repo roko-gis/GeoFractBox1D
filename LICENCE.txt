@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026
+Copyright (c) 2026 Boyko Ranguelov, Rosen Iliev
 
 Author 1: [Boyko Ranguelov]
 E-mail: [branguelov@gmail.com]
